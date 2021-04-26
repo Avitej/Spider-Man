@@ -1,0 +1,11 @@
+html{
+  text-align: center;
+  background-color: #BA68C8;
+}
+
+img{
+  width: 200px;
+  padding-right: 12.5px;
+  border-style: dashed;
+  padding-left: 12.5px;
+}

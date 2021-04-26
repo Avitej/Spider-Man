@@ -47,3 +47,11 @@ h1{
     padding-bottom: 200px;
     padding-top: 200px;
 }
+
+html{
+    scroll-behavior: smooth;
+}
+
+.sections{
+    padding-top: 200px;
+}
